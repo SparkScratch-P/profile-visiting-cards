@@ -31,6 +31,13 @@
   ```
   - Enter a Proper URL in `src=` quotes. It should end in `./c/`
 
- And... You are Done!
+#### And... You are Done! Ready to run it on your site!
+
+<h1 align="center"> Contributions and PRs are Welcome!!! </h1>
+
+<h1 align="center"> ⭐Show Some Support By Starring It!⭐</h1>
+
+<h1 align="center"> ❤️Follow me for More!❤️Thank You❤️  </h1>
+
  
  
