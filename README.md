@@ -13,11 +13,11 @@
 
 <details><summary>Expand Generator</summary>
  
- <iframe src="https://sparkscratch-p.github.io/profile-visiting-cards/generator/" allowtransparency="true" width="100%" frameborder="20px" scrolling="yes" allowfullscreen></iframe>
+ <iframe src="https://sparkscratch-p.github.io/profile-visiting-cards/generator/" allowtransparency="true" width="448" height="402" frameborder="20px" scrolling="yes" allowfullscreen></iframe>
  
  </details>
  
- ## How to Use?
+## How to Use?
  
  - Generate the code in the Generator
  - Copy the `index.html` list , and paste it in a blank new file is a sub-directory named `./c` of your main directory.
