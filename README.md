@@ -9,10 +9,28 @@
 
 **Get one for yourself, or gift one to your friends!**
 
-The Generator: 
+## Use The Generator: 
 
 <details><summary>Expand Generator</summary>
  
  <iframe src="https://sparkscratch-p.github.io/profile-visiting-cards/generator/" allowtransparency="true" width="100%" frameborder="20px" scrolling="yes" allowfullscreen></iframe>
  
  </details>
+ 
+ ## How to Use?
+ 
+ - Generate the code in the Generator
+ - Copy the `index.html` list , and paste it in a blank new file is a sub-directory named `./c` of your main directory.
+ - Save it as `index.html`.
+ - Navigate to the `index` file of your main directory.
+ - Go to the desired line, and paste the following code:
+ 
+ 
+  ```
+<iframe src="https://yourpersonalwebsite.com/c/" allowtransparency="true" width="335" height="445" frameborder="0" scrolling="no" allowfullscreen></iframe>
+  ```
+  - Enter a Proper URL in `src=` quotes. It should end in `./c/`
+
+ And... You are Done!
+ 
+ 
