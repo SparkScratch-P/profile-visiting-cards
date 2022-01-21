@@ -33,6 +33,8 @@
 
 #### And... You are Done! Ready to run it on your site!
 
+<br/><br/>
+
 <h1 align="center"> Contributions and PRs are Welcome!!! </h1>
 
 <h1 align="center"> ⭐Show Some Support By Starring It!⭐</h1>
