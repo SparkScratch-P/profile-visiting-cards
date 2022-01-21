@@ -13,7 +13,7 @@
 
 <details><summary>Expand Generator</summary>
  
- <iframe src="https://sparkscratch-p.github.io/profile-visiting-cards/generator/" allowtransparency="true" width="448" height="402" frameborder="20px" scrolling="yes" allowfullscreen></iframe>
+ <iframe src="https://sparkscratch-p.github.io/profile-visiting-cards/generator/" allowtransparency="true" width="800" height="450" frameborder="20px" scrolling="yes" allowfullscreen></iframe>
  
  </details>
  
