@@ -23,7 +23,8 @@
  - If you want to add some codes at the end, create a file named `index.html.txt.` and right click on the code, and `import` it from local device.
  - Right-CLick on the code and choose `export`.
  - It gets downloaded as `index.html.txt`, a text file.
- - Save it as `index.html`, an HTML file.
+ - Open a Blank File in a Git repo.
+ - Paste the code, and save it as `index.svg`.
 
 
 You have the card now! All u need is to implement it on your site. There are two ways you can do it!
