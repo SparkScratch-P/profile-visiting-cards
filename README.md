@@ -1,4 +1,4 @@
-# Profile Visiting Cards 
+<h1 align="center">Profile Visiting Cards </h1>
 
  ---
 ## The Profile Visiting Cards Generator || A Visiting Card for Github Profiles, and all your websites!
@@ -48,11 +48,11 @@ You have the card now! All u need is to implement it on your site.
 
 <br/><br/>
 
-<h1 align="center"> Contributions and PRs are Welcome!!! </h1>
+<h1 align="center"><em> Contributions and PRs are Welcome!!! </em></h1>
 
-<h1 align="center"> ⭐Show Some Support By Starring It!⭐</h1>
+<h1 align="center"><em> ⭐Show Some Support By Starring It!⭐ </em></h1>
 
-<h1 align="center"> ❤️Follow me for More!❤️Thank You❤️  </h1>
+<h1 align="center"><em> ❤️Follow me for More!❤️Thank You❤️  </em> </h1>
 
  
  
