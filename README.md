@@ -25,15 +25,21 @@
  - It gets downloaded as `index.html.txt`, a text file.
  - Save it as `index.html`, an HTML file.
 
-You have the card now! All u need is to implement it on your site.
+
+You have the card now! All u need is to implement it on your site. There are two ways you can do it!
+
+### By Embeding from different page:
 
  - Create a sub-directory under the main directory, named `./c/`, and upload the card-code to that directory.
  - Navigate to the `index` file of your main directory.
  - Go to the desired line, and paste the following code:
+
+### By Using Inline SVG:
  
+ - You can just get the code, as its already within `<svg>...</svg>` tags, and jsut paste it within the code.
  
   ```
-<iframe src="https://yourpersonalwebsite.com/c/" allowtransparency="true" width="335" height="445" frameborder="0" scrolling="no" allowfullscreen></iframe>
+<object type="image/svg+xml" data="https://yourpersonalwebsite.com/c/"></object>
   ```
   - Enter a Proper URL in `src=` quotes. It should end in `./c/`
 
