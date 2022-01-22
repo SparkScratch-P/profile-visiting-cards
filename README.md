@@ -5,7 +5,7 @@
 
 **Here's mine, have a look! Doesn't it look cool?**
 
-<iframe src="https://sparkscratch-p.github.io/profile-visiting-cards/sample" allowtransparency="true" width="385" height="500" frameborder="0" scrolling="yes" allowfullscreen></iframe>
+<img src="./sample/index.svg">
 
 **Get one for yourself, or gift one to your friends!**
 
