@@ -20,8 +20,14 @@
 ## How to Use?
  
  - Generate the code in the Generator
- - Copy the `index.html` list , and paste it in a blank new file is a sub-directory named `./c` of your main directory.
- - Save it as `index.html`.
+ - If you want to add some codes at the end, create a file named `index.html.txt.` and right click on the code, and `import` it from local device.
+ - Right-CLick on the code and choose `export`.
+ - It gets downloaded as `index.html.txt`, a text file.
+ - Save it as `index.html`, an HTML file.
+
+You have the card now! All u need is to implement it on your site.
+
+ - Create a sub-directory under the main directory, named `./c/`, and upload the card-code to that directory.
  - Navigate to the `index` file of your main directory.
  - Go to the desired line, and paste the following code:
  
