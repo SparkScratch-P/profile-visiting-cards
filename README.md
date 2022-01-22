@@ -39,6 +39,13 @@ You have the card now! All u need is to implement it on your site.
 
 #### And... You are Done! Ready to run it on your site!
 
+## Features:
+
+ - It can be easily embeded in your site.
+ - It's easy to recode, and is self-hosted, that reduces vulnerabilities, and there is no fear of losing the link.
+ - There is a link, suitably of your home page that opens on clikcing your image.
+ - It acts a temporary window to embed that helps a visitor to view your main site from any page, withotu leaving the page.
+
 <br/><br/>
 
 <h1 align="center"> Contributions and PRs are Welcome!!! </h1>
