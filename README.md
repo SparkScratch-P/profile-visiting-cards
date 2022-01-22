@@ -39,7 +39,7 @@ You have the card now! All u need is to implement it on your site. There are two
  - You can just get the code, as its already within `<svg>...</svg>` tags, and jsut paste it within the code.
  
   ```
-<object type="image/svg+xml" data="https://yourpersonalwebsite.com/c/"></object>
+<object type="image/svg+xml" data="https://yourpersonalwebsite.com/c/" width="800" height="450" ></object>
   ```
   - Enter a Proper URL in `src=` quotes. It should end in `./c/`
 
