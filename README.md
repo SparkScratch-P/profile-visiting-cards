@@ -22,6 +22,8 @@
 - You need to enter Base64 value of the images.
 - Use this Base64 Converter: https://elmah.io/tools/base64-image-encoder/
 - While entering the value, start with `data:image/<imgtype>;base64,`. Remmeber to replace the `<imgtype>` with the image file type, like jpg, png, gif, etc. Enter in Small-letters.
+- You can save and transport the image or host it from any source you like.
+- You can also convert the Image to GIF using [a converter](https://cloudconvert.com/svg-to-gif).
  
 ## How to Use?
  
@@ -55,7 +57,7 @@ You have the card now! All u need is to implement it on your site. There are two
 
 ## Features:
 
- - It can be easily embeded in your site.
+ - It can be easily downloaded, uploaded, transported, shared or hosted.
  - It's easy to recode, and is self-hosted, that reduces vulnerabilities, and there is no fear of losing the link.
  - There is a link, suitably of your home page that opens on clikcing your image.
  - It acts a temporary window to embed that helps a visitor to view your main site from any page, withotu leaving the page.
