@@ -20,7 +20,8 @@
 ## Quick Tips:
 
 - You need to enter Base64 value of the images.
-- Use this Base64 Converter: [https://elmah.io/tools/base64-image-encoder/]
+- Use this Base64 Converter: https://elmah.io/tools/base64-image-encoder/
+- While entering the value, start with `data:image/<imgtype>;base64,`. Remmeber to replace the `<imgtype>` with the image file type, like jpg, png, gif, etc. Enter in Small-letters.
  
 ## How to Use?
  
