@@ -5,7 +5,7 @@
 
 **Here's mine, have a look! Doesn't it look cool?**
 
-<img src="./sample/index.svg">
+<img align="center" src="./sample/index.svg">
 
 **Get one for yourself, or gift one to your friends!**
 
@@ -17,12 +17,14 @@
  
  </details>
  
+## Quick Tips:
+ 
 ## How to Use?
  
  - Generate the code in the Generator
- - If you want to add some codes at the end, create a file named `index.html.txt.` and right click on the code, and `import` it from local device.
- - Right-CLick on the code and choose `export`.
- - It gets downloaded as `index.html.txt`, a text file.
+ - If you want to add some codes at the end, create a file named `index.svg.txt.` and right click on the code, and `import` it from local device.
+ - Right-Click on the code and choose `export`.
+ - It gets downloaded as `index.svg.txt`, a text file.
  - Open a Blank File in a Git repo.
  - Paste the code, and save it as `index.svg`.
 
@@ -35,14 +37,15 @@ You have the card now! All u need is to implement it on your site. There are two
  - Navigate to the `index` file of your main directory.
  - Go to the desired line, and paste the following code:
 
+```
+<img src="./c/index.svg" alt="SPARK Profile Card">
+```
+
+
 ### By Using Inline SVG:
  
- - You can just get the code, as its already within `<svg>...</svg>` tags, and jsut paste it within the code.
- 
-  ```
-<object type="image/svg+xml" data="https://yourpersonalwebsite.com/c/" width="800" height="450" ></object>
-  ```
-  - Enter a Proper URL in `src=` quotes. It should end in `./c/`
+ - You can just get the code, as its already within `<svg>...</svg>` tags, and paste it within the code.
+
 
 #### And... You are Done! Ready to run it on your site!
 
