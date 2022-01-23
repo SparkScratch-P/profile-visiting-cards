@@ -18,6 +18,9 @@
  </details>
  
 ## Quick Tips:
+
+- You need to enter Base64 value of the images.
+- Use this Base64 Converter: [https://elmah.io/tools/base64-image-encoder/]
  
 ## How to Use?
  
