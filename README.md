@@ -5,9 +5,9 @@
 
 <a href="https://github.com/SparkScratch-P/zia"><img src="https://img.shields.io/badge/--181717?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white" onmouseover="this.src='https://img.shields.io/badge/SparkScratch_P-zia-181717?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white';" onmouseout="this.src='https://img.shields.io/badge/--181717?style=for-the-badge&amp;logo=GitHub&amp;logoColor=white';"></a>
 
-**Here's mine, have a look! Doesn't it look cool?**
+**Here's Some, have a look! Doesn't it look cool?**
 
-<img align="center" src="./sample/index.svg">
+<img src="./sample/index.svg"> <img src="./library/images/the-algorhithms.svg">
 
 **Get one for yourself, or gift one to your friends!**
 
