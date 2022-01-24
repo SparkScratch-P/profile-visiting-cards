@@ -7,6 +7,25 @@
 
 **Here's Some, have a look! Doesn't it look cool?**
 
+<style>
+* {
+  box-sizing: border-box;
+}
+
+.column {
+  float: left;
+  width: 50%;
+  padding: 5px;
+}
+
+/* Clearfix (clear floats) */
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+</style>
+
 <div class="row">
   <div class="column">
     <img src="./sample/index.svg" alt="SParkScratch-P">
