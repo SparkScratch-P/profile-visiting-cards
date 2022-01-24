@@ -7,7 +7,15 @@
 
 **Here's Some, have a look! Doesn't it look cool?**
 
-<img src="./sample/index.svg"> <img src="./library/images/the-algorhithms.svg">
+<div class="row">
+  <div class="column">
+    <img src="./sample/index.svg" alt="SParkScratch-P">
+  </div>
+  <div class="column">
+    <img src="./library/images/the-algorhithms.svg" alt="algorhithms">
+  </div>
+</div>
+
 
 **Get one for yourself, or gift one to your friends!**
 
