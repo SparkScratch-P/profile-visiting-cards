@@ -97,7 +97,8 @@ You have the card now! All u need is to implement it on your site. There are two
 
 <h1 align="center"><em> ⭐Show Some Support By Starring It!⭐ </em></h1>
 
-<h1 align="center"><em> ❤️Follow me for More!❤️Thank You❤️  </em> </h1>
+<h1 align="center"><em> ❤️Follow me for More!❤️  </em> </h1>
+<h1 align="center"><em> ❤️Thank You❤️  </em> </h1>
 
  
  
